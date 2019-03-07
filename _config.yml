@@ -10,7 +10,7 @@ url: "http://cindy-guan.com"  # 此处填写你的博客地址
 owner: 
   name: "CindyGuan" # 填写作者信息：名字
   email:  # 填写作者信息：邮箱
-  bio: "嘻嘻嘻" # 填写作者信息：博客描述
+  bio: "自留地" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
