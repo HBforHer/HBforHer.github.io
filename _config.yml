@@ -1,10 +1,10 @@
 # Site settings
-title: 小官大人的自留地 # 你的博客名字，可以定义修订
+title: CindyGuan # 你的博客名字，可以定义修订
 header-img: "img/nearriver.jpg"
 tagline: "cn"  
 description: "爱心发射❤"  # 一句话描述你的博客
 baseurl: ""
-url: "http://bingcs.com"  # 此处填写你的博客地址 
+url: "http://cindy-guan.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "兵" # 你的名字
+      author: "胡兵" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
