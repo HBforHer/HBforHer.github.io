@@ -5,10 +5,11 @@ description: "写点什么"
 header-img: "img/orange.jpg"
 ---
 
-# Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
+    <!-- Icons -->
+  <link rel="shortcut icon" href="img/favicon.ico">
+
+  
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
