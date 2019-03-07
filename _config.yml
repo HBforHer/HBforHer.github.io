@@ -4,11 +4,11 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "爱心发射❤"  # 一句话描述你的博客
 baseurl: ""
-url: "http://bingcd.com"  # 此处填写你的博客地址 
+url: "http://bingcs.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "CinduGUan" # 填写作者信息：名字
+  name: "CinduGuan" # 填写作者信息：名字
   email:  # 填写作者信息：邮箱
   bio: "嘻嘻嘻" # 填写作者信息：博客描述
 
