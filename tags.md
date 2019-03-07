@@ -8,6 +8,9 @@ header-img: "img/semantic.jpg"
 还没想好放些什么，随便逛逛吧~
 
 
+# Data
+gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 
 <ul class="listing">
