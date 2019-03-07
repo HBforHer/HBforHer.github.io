@@ -6,11 +6,6 @@ header-img: "img/zhihu.jpg"
 ---
 
 
-# Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-
-
 
 
 
