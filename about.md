@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "小官大人的自我介绍 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+大家好，我是胡兵的女朋友。
+谢谢。
 
 
 
